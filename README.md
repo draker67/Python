@@ -28,6 +28,10 @@ Go To:<a href="https://en.wikipedia.org/wiki/War_(card_game)"> Wikipedia</a>
     <p>A magic ball variant</p>
   </li>
   
+  <li>
+    <a href="webscraper.py"><b>Webscraper:</b></a>
+    <p>A Webscraper program for scraping google news</p>
+  </li>
   
 
 </ul>
