@@ -27,6 +27,7 @@ Go To:<a href="https://en.wikipedia.org/wiki/War_(card_game)"> Wikipedia</a>
   <a href="magicball_fate.py"><b>Magic Ball:</b></a>
     <p>A magic ball variant</p>
   </li>
+ </ul>
   
  <h2>Games</h2>
  <ul>
@@ -37,5 +38,5 @@ Go To:<a href="https://en.wikipedia.org/wiki/War_(card_game)"> Wikipedia</a>
  </ul>
   
 
-</ul>
+
   
