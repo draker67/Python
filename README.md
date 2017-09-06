@@ -19,12 +19,12 @@ Go To:<a href="https://en.wikipedia.org/wiki/War_(card_game)"> Wikipedia</a>
 </li>
 
  <li>
-    <a href="fool.py">FOOL:</a>
+ <a href="fool.py"><b>FOOL:</b></a>
     <p>A variant of hangman.</p>
   </li>
   
   <li>
-    <a href="magicball_fate.py">Magic Ball:</a>
+  <a href="magicball_fate.py"><b>Magic Ball:</b></a>
     <p>A magic ball variant</p>
   </li>
   
