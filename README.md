@@ -2,7 +2,7 @@
 A collection of my programs in python
 
 
-
+ <h2>Games</h2>
 <ul>
   <li>
     <a href="MyHangman.py"><b>Hangman Game:</b></a>
@@ -29,7 +29,7 @@ Go To:<a href="https://en.wikipedia.org/wiki/War_(card_game)"> Wikipedia</a>
   </li>
  </ul>
   
- <h2>Games</h2>
+ <h2>Web</h2>
  <ul>
   <li>
     <a href="webscraper.py"><b>Webscraper:</b></a>
