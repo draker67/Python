@@ -5,7 +5,7 @@ A collection of my programs in python
 
 <ul>
   <li>
-    <a href="MyHangman.py">Hangman Game:</a>
+  <a href="MyHangman.py"><b>Hangman Game:</b></a>
     A game for two in which one player tries to guess the letters of a word, the other player recording failed attempts by drawing a gallows and someone hanging on it, line by line.
   </li>
   <br>
@@ -23,7 +23,7 @@ Go To:<a href="https://en.wikipedia.org/wiki/War_(card_game)"> Wikipedia</a>
   </li>
   
   <li>
-    <a href="magicball_fate.py">FOOL:</a>
+    <a href="magicball_fate.py">Magic Ball:</a>
     A magic ball variant
   </li>
   
