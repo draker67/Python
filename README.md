@@ -13,8 +13,9 @@ A collection of my programs in python
   
   <li>
     <a href="MyCardWar.py"><b>WAR:</b></a> 
-    <p>War is a card game typically involving two players.
-    Go To:<a href="https://en.wikipedia.org/wiki/War_(card_game)"> Wikipedia</a>
+    <p> War is a card game typically involving two players.
+    <br>
+    <a href="https://en.wikipedia.org/wiki/War_(card_game)"> Wikipedia</a>
     </p>
     
   </li>
