@@ -11,12 +11,14 @@ A collection of my programs in python
   </li>
   <br>
   
-<li>
-<a href="MyCardWar.py"><b>WAR:</b></a> 
-<p>War is a card game typically involving two players.</p>
-<br>
-Go To:<a href="https://en.wikipedia.org/wiki/War_(card_game)"> Wikipedia</a>
-</li>
+  <li>
+    <a href="MyCardWar.py"><b>WAR:</b></a> 
+    <p>War is a card game typically involving two players.
+    Go To:<a href="https://en.wikipedia.org/wiki/War_(card_game)"> Wikipedia</a>
+    </p>
+    
+  </li>
+  <br>
 
  <li>
  <a href="fool.py"><b>FOOL:</b></a>
