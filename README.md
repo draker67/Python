@@ -42,7 +42,7 @@ A collection of my programs in python
   <h2>College</h2>
  <ul>
   <li>
-    <a href="reflexive.py"><b>Reflexiver:</b></a>
+    <a href="reflexive.py"><b>Reflexive:</b></a>
     <p>To evaluate whether a given matrix is reflexive</p>
   </li>
  </ul>
